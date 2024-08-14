@@ -1,7 +1,7 @@
-import { suma} from './suma.js';
-import { resta } from './resta.js';
-import { division} from './division.js';
-import { multiplicacion} from './multiplicacion.js';
+import { suma} from "./suma.js";
+import { resta } from "./resta.js";
+import { division} from "./division.js";
+import { multiplicacion} from "./multiplicacion.js";
 
 let dato1 = parseInt(prompt("Ingrese el primer valor: ")); 
 let dato2 = parseInt(prompt("Ingrese el segundo valor: ")); 
